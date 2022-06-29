@@ -93,9 +93,9 @@ background-color: #020000;
  
 .myform input{
  padding: 8px;
- width: 100%;
+ width: 50%;
 }
 .myform textarea{
     padding: 8px;
-    width: 100%;
+    width: 50%;
 }
