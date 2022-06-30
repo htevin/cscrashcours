@@ -34,6 +34,10 @@ background-color: #020000;
     border-style: none;
 }
 
+.clr{
+    clear: both;
+}
+
 .box1{
     background-color: #333;
     color: rgb(255, 255, 255);
@@ -98,4 +102,26 @@ background-color: #020000;
 .myform textarea{
     padding: 8px;
     width: 50%;
+}
+.block{
+    float: left;
+    width: 33.3%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+#sidebar{
+    float: right;
+    width: 30%;
+    background-color:#333;
+    color: white;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+#main-block{
+    float: left;
+    width: 70%;
+    box-sizing: border-box;
 }
